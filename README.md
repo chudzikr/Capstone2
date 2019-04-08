@@ -26,9 +26,18 @@ The data was originally gathered by two professors at Clemson University; Darren
 **Solution Approach**  
 I plan to use Python data analysis and manipulation techniques to manipulate, aggregate and clean the data.  I will then use Natural Language Processing and text mining techniques to extract topics and sentiments, and data visualization libraries and techniques to create visualizations to support my findings.
 
-**Deliverables**  
-A GitHub repository will be created, containing this project proposal, as well as the following project deliverables:
+**Project Deliverables**  
+The project files are structured in the following manner:  
 
-* Python Code
-* Russian Troll Tweets data set
-* Project Presentation paper and slide deck
+***Code***  
+* [EDA](https://github.com/chudzikr/Capstone2/blob/master/code/Russian_tweets_EDA.ipynb)  
+* [NLP](https://github.com/chudzikr/Capstone2/blob/master/code/Russian_tweets_NLP_final.ipynb)  
+* [Troll Group Analysis - RightTroll](https://github.com/chudzikr/Capstone2/blob/master/code/Russian_Troll_Groups_RightTroll.ipynb)
+* [Troll Group Analysis - LeftTroll](https://github.com/chudzikr/Capstone2/blob/master/code/Russian_Troll_Groups_LeftTroll.ipynb)  
+
+***Reports***  
+* [Final Project Report](https://github.com/chudzikr/Capstone2/blob/master/reports/Capstone2_Final_Report.pdf)  
+* [Project Report Slide Deck](https://github.com/chudzikr/Capstone2/blob/master/reports/Capstone2_Final_Report_Pres.pptx)  
+
+***Data***  
+Due to the large file size, the data is not available in this repository.  See the [README](https://github.com/chudzikr/Capstone2/blob/master/data/README.md).
