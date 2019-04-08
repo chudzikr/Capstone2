@@ -1,6 +1,7 @@
-# Data Unavailable	
+# Russian Troll Data  	
 The data for this project is unable to be uploaded, due to the large file size.  However, the information below provides a guide on how to obtain the data.
 
+For reference, [a sample data file](https://github.com/chudzikr/Capstone2/blob/master/data/IRAhandle_tweets_sample.csv) has been included in the repo.
 
 
 # 3 million Russian troll tweets
